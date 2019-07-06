@@ -1,0 +1,6 @@
+"mazerunner"
+{
+	"title"		"Maze Runner"
+	"base"		"base"
+	"maps"		"^rm_"
+}
